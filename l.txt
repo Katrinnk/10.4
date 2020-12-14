@@ -1,0 +1,5 @@
+nulovi: 0
+dodtni: 1
+inshi symvoly: 1
+videmni: -5
+inshi symvoly: -5
